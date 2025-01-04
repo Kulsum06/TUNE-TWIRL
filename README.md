@@ -1,4 +1,4 @@
-# 🎵 Tune Twirl - College Edition
+# 🎵 Tune Twirl 
 
 Welcome to **Tune Twirl**, the ultimate music-sharing platform for college students! A place where you can share your tracks, engage in vibrant music discussions, and discover exciting events in your local scene.
 
